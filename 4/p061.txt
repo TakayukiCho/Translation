@@ -9,7 +9,7 @@ City: Mexico City
 Event Organizer: Expo TNT
 Representatives: Octavio Carranza
 Contact e-mail address: tnt_director@hotmail.com
-Event Organizer localion information: Eje Central Lazaro Cardenas 12, 4° Flour, 06020 Mexico City Mexico
+Event Organizer location information: Eje Central Lazaro Cardenas 12, 4ï¿½ Flour, 06020 Mexico City Mexico
 Event establishment year: 2000
 Date and frequency: 5 times per year
 Number of visitors: 71, 000 people (2016)
@@ -28,6 +28,6 @@ Corporate Exhibit Inquiries: info@tnt-web.net
 
 Summary:
 Expo TNT is the biggest event in Mexico that focuses on Japanese anime and manga.
-This event is held in Mexico City, the biggest feature is a variety of activities: inviting Japanese manga, anime and music talents.
+This event is held in Mexico City, and the biggest feature is a variety of activities: inviting Japanese manga, anime and music talents.
 There are anime and manga spots and other entertainments near the numerous companies' sales booths.
 There are also other attractions such as cosplay (Expo TNT is the event qualified to select the Mexican team to enter the World Cosplay Summit), video games, live concerts by popular anime singers, stages with karaoke and idols, etc.
