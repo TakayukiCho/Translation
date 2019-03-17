@@ -21,7 +21,7 @@ The recent event information
 Event name: Otakon Vegas, 2017
 Date: 2017 January, 13-15
 Venue Name: Planet Hollywood Resort & Casino
-General admission fee: 
+General admission fee:
 At Door: USD$65 Weekend / USD$45 Single-Day
 Friday or Saturday; USD$30 Single-Day Sunday Only
 Exhibition company fee:  USD $550
@@ -29,4 +29,4 @@ A company exhibitor, a group (others nonprofit) exhibitor, the personal number o
 Corporate Exhibit Inquiries: alexw@otakorp.org
 
 Summary:
-Otakon Vegas is the new event by Otakon's operating members, the largest festival of anime and East Asian culture in North America.
+Otakon Vegas is the new event by operating members of Otakon, the largest festival of anime and East Asian culture in North America.

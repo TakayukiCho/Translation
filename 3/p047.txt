@@ -27,5 +27,6 @@ A company exhibitor, a group (others nonprofit) exhibitor, the personal number o
 Corporate Exhibit Inquiries: industry@animethon.org
 
 Summary:
-A Taste of Animethon was held for the first time in 2010, and although it is smaller than the original Animethon, the number of participants has steadily increased from year to year.
-The venue was moved to the Ramada Inn and Conference Center in 2013, and the event was held at a larger Shaw Conference Center in 2016.
+A Taste of Animethon was held for the first time in 2010.
+Although it is smaller than the original Animethon, the number of participants has steadily increased from year to year.
+The venue was moved to the Ramada Inn and Conference Center in 2013, and the event was held at a even larger Shaw Conference Center in 2016.
