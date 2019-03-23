@@ -21,7 +21,7 @@ The recent event information
 Event name: AsiaPOP Comicon Manila 2016
 Date: 2016 August, 26-28
 Venue Name: SMX Convention Center
-General admission fee: 
+General admission fee:
 The 1-Day Pass: Php500
 The 2-Day Pass: Php800
 The 3-Day Pass: Php1,000
@@ -30,13 +30,16 @@ Exhibition company fee: -
 A company exhibitor, a group (others nonprofit) exhibitor, the personal number of exhibitors and those total number: 65
 Corporate Exhibit Inquiries: -
 
-Summary: 
-AsiaPOP Comicon (APCC) is the international pop-culture convention.
+Summary:
+AsiaPOP Comicon (APCC) is an international pop-culture convention.
 The theme of the event is pop-culture: manga, movies, toys and goods, anime, games, cosplay, superheroes.
 The event attracts several internationally famous artists, celebrities and pop-culture icons.
 Started in Philippines's Manila, the event attract attention of enthusiastic fans. (??)
+// 日本語が意味不明
+
 APCC invites the international exhibitors who related to pop-culture genres and exhibitors from the top studios to bring exclusive content for popular brands and shows.
 To focus on producing the Ultimate Otaku culture experience, APCC takes main stream of Otaku culture and is eager to be and stand on the stage majestically as the new product to produce potential oppotunities for small-to-medium-sized enterprises in an Entertainment Business and also is eager to be and stand on the stage magnificently as the perfect stage of the first overview of the movie of Asia Pacific Region. (??)
 Due to the big brand equity and APAC, We are able to reach out to the creative and full of lively talent pool.
 The event works as the mega-licence stage of the studios to make a direct access to the potential client throught the B2B network, but the more important purpose of the event is to keep the out-reach and communication for the celebrities and the brands which have the fans, we will work on the task by one-on-one conversations. (??)
 
+// 多分これグーグル翻訳なのでちょっとどうしようもない。。
