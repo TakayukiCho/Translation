@@ -26,7 +26,8 @@ Exhibition company fee: -
 A company exhibitor, a group (others nonprofit) exhibitor, the personal number of exhibitors and those total number: -
 Corporate Exhibit Inquiries: sells@nipponnation.at
 
-Summary: 
+Summary:
 Nippon Nation is the event operated by young people, who are trying to increase popularity of anime, manga, cosplay and video games in Austria.
 This convention aims to become a place where people around the world can interact and exchange their hobbies and passion.
-Nippon Nation offers entertainment and encourages content's creativity through various programs with a wide range of contests.(??)
+Nippon Nation offers entertainment and encourages content's creativity through various programs with a wide range of contests.
+// そもそも日本語が意味不明。。笑
